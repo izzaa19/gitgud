@@ -1,3 +1,3 @@
 # GITGUD workshop
 
-Learning Git adn GitHub
+Learning Git and GitHub
